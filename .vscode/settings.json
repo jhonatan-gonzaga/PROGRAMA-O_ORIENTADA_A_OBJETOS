@@ -1,5 +1,8 @@
 {
     "python.analysis.extraPaths": [
-        "./1_Sistema_de_Midias_Educacionais"
+        "./1_Sistema_de_Midias_Educacionais",
+        "./2_Sistema_de_Funcionários_de_uma_Empresa",
+        "./3_Sistema_de_Notificações_com_ABC",
+        "./4_Sistema_de_Cadastro_de_Clientes"
     ]
 }
