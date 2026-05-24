@@ -113,13 +113,6 @@ Ao completar esta lista de exercícios, o aluno será capaz de:
 ## 👤 Autor
 
 **Jhonatan Gonzaga**
-
----
-
-## 📧 Contato
-
-Para dúvidas sobre os exercícios, entre em contato com o professor **Alternei Brito**.
-
 ---
 
 **Data de Entrega:** Conforme cronograma da disciplina  
