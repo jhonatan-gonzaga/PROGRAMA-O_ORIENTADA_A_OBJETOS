@@ -16,7 +16,7 @@ class Midia(ABC):
 
 class Video(Midia):
     def __init__(self, titulo, duracao, resolucao):
-        super.__init__(titulo, duracao)
+        super().__init__(titulo, duracao)
         self.resolucao = resolucao
 
     def reproduzir(self):

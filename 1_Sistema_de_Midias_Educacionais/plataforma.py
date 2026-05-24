@@ -1,7 +1,7 @@
-class plataforma:
+class Plataforma:
     def __init__(self, nome, lista_midias):
         self.nome = nome
-        self.lista_midias =[]
+        self.lista_midias =[ ]
     
     def adicionar_midia(self, midia):
         self.lista_midias.append(midia)
@@ -13,5 +13,4 @@ class plataforma:
     def reproduzir_todas(self):
         for midia in self.lista_midias:
             midia.reproduzir()
-    
     
